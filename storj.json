@@ -1,0 +1,48 @@
+{
+	"nodes": [
+		{
+			"name": "Home",
+			"url": "http://<url/ip>:9651",
+			"location": "Home"
+		},
+		{
+			"name": "John Doe",
+			"url": "http://<url/ip>:9651",
+			"location": "Antarctica"
+		}
+	],
+	"locations": [
+		{
+			"name": "Home"
+		},
+		{
+			"name": "Antarctica"
+		}
+	],
+	"satellites": [
+		{
+			"name": "ap1.storj.io",
+			"group": "customer"
+		},
+		{
+			"name": "eu1.storj.io",
+			"group": "customer"
+		},
+		{
+			"name": "us1.storj.io",
+			"group": "customer"
+		},
+		{
+			"name": "saltlake.tardigrade.io",
+			"group": "test-data"
+		},
+		{
+			"name": "europe-north-1.tardigrade.io",
+			"group": "test-data"
+		},
+		{
+			"name": "us2.storj.io",
+			"group": "test"
+		}
+	]
+}

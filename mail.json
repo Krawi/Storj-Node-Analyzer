@@ -1,0 +1,47 @@
+{
+	"mail": {
+		"server": "<smtp server>",
+		"port": "25",
+		"starttls": "false",
+		"ssl": "false",
+		"timeout": "60",
+		"username": "<email>",
+		"username_full": "<name>",
+		"userpassword": "<password>",
+		"sendername_full": "Storj-Analyzer",
+		"subject_day": "Storj report from: ",
+		"subject_midnight": "Storj summary from: ",
+		"msgtxt_day": "Daily report",
+		"msgtxt_midnight": "Monthly summary"
+	},
+	"gmail": {
+		"server": "smtp.gmail.com",
+		"port": "465",
+		"starttls": "false",
+		"ssl": "true",
+		"timeout": "60",
+		"username": "<user>@gmail.com",
+		"username_full": "<name>",
+		"userpassword": "<app password>",
+		"sendername_full": "Storj-Analyzer",
+		"subject_day": "Storj report from: ",
+		"subject_midnight": "Storj summary from: ",
+		"msgtxt_day": "Daily report",
+		"msgtxt_midnight": "Monthly summary"
+	},
+	"outlook": {
+		"server": "smtp-mail.outlook.com",
+		"port": "587",
+		"starttls": "true",
+		"ssl": "false",
+		"timeout": "60",
+		"username": "<email>",
+		"username_full": "<name>",
+		"userpassword": "<password>",
+		"sendername_full": "Storj-Analyzer",
+		"subject_day": "Storj report from: ",
+		"subject_midnight": "Storj summary from: ",
+		"msgtxt_day": "Daily report",
+		"msgtxt_midnight": "Monthly summary"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"export": {
+		"path_unix": "/mnt/network/storj/storj-export",
+		"path_windows": "X:\\network\\storj\\storj-export"
+	},
+	"excel": {
+		"path_unix": "/var/www/storj",
+		"path_windows": "X:\\network\\storj\\storj-web",
+		"file": "storj-data",
+		"interval": 15
+	},
+	"google_sheets": {
+		"path_unix": "/var/www/storj",
+		"path_windows": "X:\\network\\storj\\storj-web",
+		"file": "storj-data",
+		"interval": 15
+	}
+}

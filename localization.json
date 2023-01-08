@@ -1,0 +1,34 @@
+{
+	"locale": {
+		"en_US": {
+			"end_of_month": "End of month (estimated)",
+			"location": "Location (current)",
+			"satellite": "Satellite",
+			"node": "Node",
+			"is_running_since": "is running since",
+			"first_data_since": "data since day",
+			"days": "days",
+			"disk_used": "disk used",
+			"payout": "payout",
+			"per": "per",
+			"current": "current",
+			"estimated": "estimated",
+			"time_format": "%m/%d/%Y %I:%M:%S %p"
+		},
+		"de_DE": {
+			"end_of_month": "Monatsende (geschätzt)",
+			"location": "Standort (aktuell)",
+			"satellite": "Satellit",
+			"node": "Knoten",
+			"is_running_since": "läuft seit",
+			"first_data_since": "Daten seit Tag",
+			"days": "Tagen",
+			"disk_used": "Benutzt",
+			"payout": "Auszahlung",
+			"per": "pro",
+			"current": "aktuell",
+			"estimated": "geschätzt",
+			"time_format": "%d.%m.%Y %H:%M:%S"
+		}
+	}
+}
